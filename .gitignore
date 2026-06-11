@@ -1,4 +1,10 @@
 bin/
 obj/
 packages/
+<<<<<<< HEAD
 .vs/
+=======
+.vs/
+*.user
+*.suo
+>>>>>>> 96e8ed51bb459f66d7a95eecac6082373ae73e03
