@@ -1,13 +1,7 @@
-# Build files
 bin/
 obj/
-
-# Visual Studio cache
 .vs/
-
-# NuGet packages
 packages/
-
-# User-specific files
 *.user
 *.suo
+*.log
