@@ -1,10 +1,13 @@
+# Build files
 bin/
 obj/
+
+# Visual Studio cache
+.vs/
+
+# NuGet packages
 packages/
-<<<<<<< HEAD
-.vs/
-=======
-.vs/
+
+# User-specific files
 *.user
 *.suo
->>>>>>> 96e8ed51bb459f66d7a95eecac6082373ae73e03
