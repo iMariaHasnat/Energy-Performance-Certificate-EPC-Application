@@ -4,4 +4,8 @@ obj/
 packages/
 *.user
 *.suo
+<<<<<<< HEAD
 *.log
+=======
+*.log
+>>>>>>> 06c0e7e (Clean project structure - remove build files)
